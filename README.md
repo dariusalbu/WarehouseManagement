@@ -1,6 +1,6 @@
 # WarehouseManagement
 
-![App Interface](preview.png)
+![App Interface](image.png)
 
 Inventory manager built with Java and Swing. Uses PostgreSQL for data persistence and Maven for dependency management.
 
